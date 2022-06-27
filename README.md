@@ -4,6 +4,6 @@
 Press `F3` in fman to preview the file currently under the cursor.
 
 File preview example:
-![screenshot](https://github.com/msergein/CinnamonQuickLook/blob/master/resources/screenshot.png?raw=true)
+![screenshot](https://raw.githubusercontent.com/msergein/CinnamonQuickLook/main/resources/screenshot.png)
 ## Installation
 Use fman's  [built-in command for installing plugins](https://fman.io/docs/installing-plugins).
